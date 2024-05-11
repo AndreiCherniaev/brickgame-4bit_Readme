@@ -7,7 +7,7 @@ Works only on Linux.
 ```
 sudo apt install make clang
 git clone --remote-submodules --recurse-submodules https://github.com/ilyakurdyukov/brickgame-4bit && cd brickgame-4bit
-make
+make -j
 ```
 
 ### How to run the game
