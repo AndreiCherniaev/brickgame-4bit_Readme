@@ -1,0 +1,4 @@
+[submodule "BrickEmuPy"]
+	path = BrickEmuPy
+	url = https://github.com/azya52/BrickEmuPy
+	branch = main
