@@ -1,4 +1,3 @@
-
 CFLAGS = -O2 -Wall -Wextra -std=c99 -pedantic -Wno-unused
 APPNAME = brickgame
 ROMNAME = brickrom.bin
